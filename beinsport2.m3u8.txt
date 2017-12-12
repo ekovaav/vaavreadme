@@ -1,3 +1,0 @@
-#EXTM3U
-#EXTINF:-1,BEIN SPORTS HD 2
-http://wowza2.mysoltv.com:1992/Bein_Sports_2_FP_HD/index.m3u8
