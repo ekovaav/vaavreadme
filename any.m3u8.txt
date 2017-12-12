@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1,Viasat Sport HD
+http://91.231.219.145:80/tv_viasat_sport_HD/playlist.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://91.231.219.145:80/tv_eurosport_1_HD/playlist.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://91.231.219.145:80/tv_eurosport_2_HD/playlist.m3u8
+#EXTINF:-1,Eurosport2 HD
+http://185.19.190.14:8090/Eurosport2/playlist.m3u8
+#EXTINF:-1,Eurosport1 HD
+http://185.19.190.14:8090/Eurosport1/playlist.m3u8
+#EXTINF:-1,ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,ESPN 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,ESPN 3
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/Stream(07)/index.m3u8
+#EXTINF:-1,Supersport 1
+http://91.205.173.193/hls/sports/ss1/stream.m3u8
+#EXTINF:-1,Supersport 2
+http://91.205.173.193/hls/sports/ss2/stream.m3u8
+#EXTINF:-1,Supersport 3
+http://91.205.173.193/hls/sports/ss3/stream.m3u8
+#EXTINF:-1,Supersport 4
+http://91.205.173.193/hls/sports/ss4/stream.m3u8
+#EXTINF:-1,Supersport 1
+http://91.205.173.193/hls/sports/ks1/stream.m3u8
+#EXTINF:-1,Supersport 2
+http://91.205.173.193/hls/sports/ks2/stream.m3u8
+#EXTINF:-1,tring sport 1
+http://91.205.173.193/hls/sports/ts1/stream.m3u8
+#EXTINF:-1,tring sport 2
+http://91.205.173.193/hls/sports/ts2/stream.m3u8
+#EXTINF:-1,ADSport 1HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,ADSport 2HD
+http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8
+#EXTINF:-1,ADSports 3HD
+http://adtv.ercdn.net/adsport3/adsport3_720p.m3u8
+#EXTINF:-1,ADSports 4HD
+http://adtv.ercdn.net/adsport4/adsport4_720p.m3u8
+#EXTINF:-1,ADSports 5HD
+http://adtv.ercdn.net/adsport5/adsport5_720p.m3u8
